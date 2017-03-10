@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 9, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Devlin Yorker)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment uses Javascript to design a photogallery.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned to make interctive buttons.
+2. I learned how to implement if/else statements.
+3. Learned how to implement left right arrow buttons.
